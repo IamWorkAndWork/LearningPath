@@ -4,13 +4,13 @@
 
 
 - Android Paging Library with multiple view types <br>
-https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe1222d <br>
-https://github.com/nlgtuankiet/mvrxpaged
+  - https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe1222d <br>
+  - https://github.com/nlgtuankiet/mvrxpaged
 
 
 - Android Paging Library with multiple view types <br />
-https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe1222d <br />
-source code : https://github.com/nlgtuankiet/mvrxpaged
+  - https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe1222d <br />
+  - source code : https://github.com/nlgtuankiet/mvrxpaged
 
 - Building a modern app using Nest.js, MongoDB and Vue.js <br />
 https://scotch.io/tutorials/building-a-modern-app-using-nestjs-mongodb-and-vuejs
