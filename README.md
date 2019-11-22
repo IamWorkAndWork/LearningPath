@@ -14,3 +14,6 @@ https://proandroiddev.com/how-to-implement-a-clean-architecture-on-android-2e5e8
 
 #Udacity Nanodegrees Course List <br />
 https://github.com/mikesprague/udacity-nanodegrees#android-developer-nanodegree
+
+#Clean Architecture Tutorial for Android: Getting Started <br>
+https://www.raywenderlich.com/3595916-clean-architecture-tutorial-for-android-getting-started
