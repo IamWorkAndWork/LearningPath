@@ -1,7 +1,7 @@
 
-#########################################################
-Learning
-#########################################################
+#########################################################<br>
+Learning<br>
+#########################################################<br>
 
 #Android Paging Library with multiple view types <br />
 https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe1222d <br />
@@ -26,13 +26,25 @@ https://www.raywenderlich.com/3595916-clean-architecture-tutorial-for-android-ge
 #Design-Patterns-In-Kotlin<br>
 https://github.com/dbacinski/Design-Patterns-In-Kotlin#behavioral
 
+#Understanding Dagger 2<br>
+https://medium.com/@MiBLT/understanding-dagger-2-367ff1bd184f
+
+#mrabelwahed UdemyDaggerCourse <br>
+https://github.com/mrabelwahed/UdemyDaggerCourse
 
 
 
-
-#########################################################
-Workshop
-#########################################################
+#########################################################<br>
+Workshop<br>
+#########################################################<br>
 
 #PopularMovies1<br>
 https://github.com/redlor/PopularMovies1
+
+#Movie-Map-2<br>
+https://github.com/suvojitd79/Movie-Map-2
+
+#build-and-secure-restful-api<br>
+Source code for 'Build and Secure Restful API in Node.js, Express and MongoDB' course<br>
+https://www.udemy.com/build-and-secure-restful-apis-with-nodejs-and-mongodb/?couponCode=CUP_19<br>
+https://github.com/HaiderMalik12/build-and-secure-restful-api
