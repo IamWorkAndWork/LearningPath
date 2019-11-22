@@ -7,7 +7,6 @@
   - https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe1222d <br>
   - https://github.com/nlgtuankiet/mvrxpaged
 
-
 - Android Paging Library with multiple view types <br />
   - https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe1222d <br />
   - source code : https://github.com/nlgtuankiet/mvrxpaged
@@ -20,7 +19,7 @@
   - https://github.com/rakshit444/news-sample-app
 
 - How to implement a Clean Architecture on Android <br />
-https://proandroiddev.com/how-to-implement-a-clean-architecture-on-android-2e5e8c8e81fe
+  - https://proandroiddev.com/how-to-implement-a-clean-architecture-on-android-2e5e8c8e81fe
 
 - Udacity Nanodegrees Course List <br />
   - https://github.com/mikesprague/udacity-nanodegrees#android-developer-nanodegree
