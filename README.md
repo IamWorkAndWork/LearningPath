@@ -1,8 +1,6 @@
 
 
-#########################################################<br>
-#### Learning<br>
-#########################################################<br>
+## Learning<br>
 
 
 - Android Paging Library with multiple view types <br>
@@ -44,10 +42,7 @@ https://android.jlelse.eu/practical-guide-to-dagger-76398948a2ea
 
 
 
-
-#########################################################<br>
-#### Workshop<br>
-#########################################################<br>
+## Workshop<br>
 
 - PopularMovies1<br>
 https://github.com/redlor/PopularMovies1
@@ -68,9 +63,7 @@ https://github.com/BracketCove/JetpackNotesMvvmKotlin
 https://www.youtube.com/playlist?list=PLB6lc7nQ1n4jTLDyU2muTBo8xk0dg0D_w
 
 
-#########################################################<br>
-#### Libraries<br>
-#########################################################<br>
+## Libraries<br>
 
 - Timeline-View <br>
 https://github.com/vipulasri/Timeline-View
