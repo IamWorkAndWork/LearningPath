@@ -8,36 +8,36 @@ https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe
 https://github.com/nlgtuankiet/mvrxpaged
 
 - Android Paging Library with multiple view types <br />
-  - https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe1222d <br />
-  - source code : https://github.com/nlgtuankiet/mvrxpaged
+https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe1222d <br />
+source code : https://github.com/nlgtuankiet/mvrxpaged
 
 - Building a modern app using Nest.js, MongoDB and Vue.js <br />
-  - https://scotch.io/tutorials/building-a-modern-app-using-nestjs-mongodb-and-vuejs
+https://scotch.io/tutorials/building-a-modern-app-using-nestjs-mongodb-and-vuejs
 
 - Kotlin Clean Architecture <br />
-  - https://proandroiddev.com/kotlin-clean-architecture-1ad42fcd97fa <br />
-  - https://github.com/rakshit444/news-sample-app
+https://proandroiddev.com/kotlin-clean-architecture-1ad42fcd97fa <br />
+https://github.com/rakshit444/news-sample-app
 
 - How to implement a Clean Architecture on Android <br />
-  - https://proandroiddev.com/how-to-implement-a-clean-architecture-on-android-2e5e8c8e81fe
+https://proandroiddev.com/how-to-implement-a-clean-architecture-on-android-2e5e8c8e81fe
 
 - Udacity Nanodegrees Course List <br />
-  - https://github.com/mikesprague/udacity-nanodegrees#android-developer-nanodegree
+https://github.com/mikesprague/udacity-nanodegrees#android-developer-nanodegree
 
 - Clean Architecture Tutorial for Android: Getting Started <br>
-  - https://www.raywenderlich.com/3595916-clean-architecture-tutorial-for-android-getting-started
+https://www.raywenderlich.com/3595916-clean-architecture-tutorial-for-android-getting-started
 
 - Design-Patterns-In-Kotlin<br>
-  - https://github.com/dbacinski/Design-Patterns-In-Kotlin#behavioral
+https://github.com/dbacinski/Design-Patterns-In-Kotlin#behavioral
 
 - Understanding Dagger 2<br>
-  - https://medium.com/@MiBLT/understanding-dagger-2-367ff1bd184f
+https://medium.com/@MiBLT/understanding-dagger-2-367ff1bd184f
 
 - mrabelwahed UdemyDaggerCourse <br>
-  - https://github.com/mrabelwahed/UdemyDaggerCourse
+https://github.com/mrabelwahed/UdemyDaggerCourse
 
 - Practical guide to Dagger 2 <br>
-  - https://android.jlelse.eu/practical-guide-to-dagger-76398948a2ea
+https://android.jlelse.eu/practical-guide-to-dagger-76398948a2ea
 
 
 
