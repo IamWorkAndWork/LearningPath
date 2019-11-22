@@ -1,3 +1,8 @@
+
+#########################################################
+Learning
+#########################################################
+
 #Android Paging Library with multiple view types <br />
 https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe1222d <br />
 source code : https://github.com/nlgtuankiet/mvrxpaged
@@ -17,3 +22,17 @@ https://github.com/mikesprague/udacity-nanodegrees#android-developer-nanodegree
 
 #Clean Architecture Tutorial for Android: Getting Started <br>
 https://www.raywenderlich.com/3595916-clean-architecture-tutorial-for-android-getting-started
+
+#Design-Patterns-In-Kotlin<br>
+https://github.com/dbacinski/Design-Patterns-In-Kotlin#behavioral
+
+
+
+
+
+#########################################################
+Workshop
+#########################################################
+
+#PopularMovies1<br>
+https://github.com/redlor/PopularMovies1
