@@ -1,7 +1,14 @@
 
+
 #########################################################<br>
 Learning<br>
 #########################################################<br>
+
+```diff
+# #Android Paging Library with multiple view types <br>
+- https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe1222d <br>
+- https://github.com/nlgtuankiet/mvrxpaged
+```
 
 #Android Paging Library with multiple view types <br />
 https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe1222d <br />
@@ -32,6 +39,10 @@ https://medium.com/@MiBLT/understanding-dagger-2-367ff1bd184f
 #mrabelwahed UdemyDaggerCourse <br>
 https://github.com/mrabelwahed/UdemyDaggerCourse
 
+#Practical guide to Dagger 2 <br>
+https://android.jlelse.eu/practical-guide-to-dagger-76398948a2ea
+
+
 
 
 #########################################################<br>
@@ -48,3 +59,18 @@ https://github.com/suvojitd79/Movie-Map-2
 Source code for 'Build and Secure Restful API in Node.js, Express and MongoDB' course<br>
 https://www.udemy.com/build-and-secure-restful-apis-with-nodejs-and-mongodb/?couponCode=CUP_19<br>
 https://github.com/HaiderMalik12/build-and-secure-restful-api
+
+#JetpackNotesMvvmKotlin <br>
+Demo project by request: Firebase, MVVM, Coroutines, Android Architecture Components, and so forth <br>
+https://github.com/BracketCove/JetpackNotesMvvmKotlin
+
+#Forecast App - Android Kotlin MVVM Tutorial Course <br>
+https://www.youtube.com/playlist?list=PLB6lc7nQ1n4jTLDyU2muTBo8xk0dg0D_w
+
+
+#########################################################<br>
+Libraries<br>
+#########################################################<br>
+
+Timeline-View <br>
+https://github.com/vipulasri/Timeline-View
