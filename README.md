@@ -4,8 +4,8 @@
 
 
 - Android Paging Library with multiple view types <br>
-  - https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe1222d <br>
-  - https://github.com/nlgtuankiet/mvrxpaged
+https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe1222d <br>
+https://github.com/nlgtuankiet/mvrxpaged
 
 - Android Paging Library with multiple view types <br />
   - https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe1222d <br />
