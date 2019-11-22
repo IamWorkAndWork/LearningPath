@@ -24,7 +24,7 @@ https://github.com/rakshit444/news-sample-app
 - How to implement a Clean Architecture on Android <br />
 https://proandroiddev.com/how-to-implement-a-clean-architecture-on-android-2e5e8c8e81fe
 
-#Udacity Nanodegrees Course List <br />
+- Udacity Nanodegrees Course List <br />
 https://github.com/mikesprague/udacity-nanodegrees#android-developer-nanodegree
 
 - Clean Architecture Tutorial for Android: Getting Started <br>
