@@ -2,6 +2,8 @@
 
 ## Learning<br>
 
+- Draw Custom Views in Android
+https://medium.com/@pavan.careers5208/draw-custom-views-in-android-a321fa157d60?source=email-d562142abfd6-1574726440807-digest.reader------0-58------------------7c6e27cb_9f96_43eb_849e_b712768b663d-1-----&sectionName=top
 
 - Android Paging Library with multiple view types <br>
 https://proandroiddev.com/android-paging-library-with-multiple-view-type-68f85fe1222d <br>
