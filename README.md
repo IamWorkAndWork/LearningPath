@@ -2,7 +2,7 @@
 
 ## Learning<br>
 
-- Koin vs Dagger, Say hello to Koin
+- Koin vs Dagger, Say hello to Koin <br>
 https://blog.usejournal.com/android-koin-with-mvvm-and-retrofit-e040e4e15f9d <br>
 https://github.com/FarshidABZ/StartWithKoin
 
